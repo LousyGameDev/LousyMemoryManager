@@ -1,0 +1,52 @@
+# Build and Binary files
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+
+# VSCode & Visual Studio settings
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.user
+*.userosscache
+*.log
+
+# Compiled source
+*.dll
+*.exe
+*.lib
+*.app
+*.dylib
+*.pdb
+*.ipch
+*.obj
+
+# Unreal-specific files
+Saved/
+*.aps
+*.pch
+*.pdb
+*.idb
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+
+# Crash and logs
+*.dmp
+*.log
+*.vspscc
+*.vssscc
